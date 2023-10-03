@@ -1,0 +1,50 @@
+[
+  {
+    "text": "Please give me the injuries list of Manchester City on 2023-10-01.",
+    "intent": "GetInfo_injuries",
+    "intent_prediction": {
+      "name": "GetInfo_coach",
+      "confidence": 0.9992169141769409
+    }
+  },
+  {
+    "text": "I want to get the injuries list of Manchester City on 2023-10-01.",
+    "intent": "GetInfo_injuries",
+    "intent_prediction": {
+      "name": "GetInfo_coach",
+      "confidence": 0.9951515197753906
+    }
+  },
+  {
+    "text": "Who got injuried on 2023-10-01 of Manchester City.",
+    "intent": "GetInfo_injuries",
+    "intent_prediction": {
+      "name": "GetInfo_coach",
+      "confidence": 0.9990377426147461
+    }
+  },
+  {
+    "text": "Tell me the injuries list of Manchester City on 2023-10-01.",
+    "intent": "GetInfo_injuries",
+    "intent_prediction": {
+      "name": "GetInfo_coach",
+      "confidence": 0.9988530874252319
+    }
+  },
+  {
+    "text": "Give me a list of injuries of Manchester City on 2023-10-01.",
+    "intent": "GetInfo_injuries",
+    "intent_prediction": {
+      "name": "GetInfo_coach",
+      "confidence": 0.9987448453903198
+    }
+  },
+  {
+    "text": "Who didn't take part the match on 2023-10-01 for Manchester City.",
+    "intent": "GetInfo_injuries",
+    "intent_prediction": {
+      "name": "GetInfo_coach",
+      "confidence": 0.9927175045013428
+    }
+  }
+]

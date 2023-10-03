@@ -1,0 +1,182 @@
+[
+  {
+    "text": "Please give me the injuries list of Manchester City on 2023-10-01.",
+    "entities": [
+      {
+        "start": 36,
+        "end": 51,
+        "value": "Manchester City",
+        "entity": "team"
+      },
+      {
+        "start": 55,
+        "end": 65,
+        "value": "2023-10-01",
+        "entity": "date"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "team",
+        "start": 36,
+        "end": 51,
+        "confidence_entity": 0.9992583394050598,
+        "value": "Manchester City",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "I want to get the injuries list of Manchester City on 2023-10-01.",
+    "entities": [
+      {
+        "start": 35,
+        "end": 50,
+        "value": "Manchester City",
+        "entity": "team"
+      },
+      {
+        "start": 54,
+        "end": 64,
+        "value": "2023-10-01",
+        "entity": "date"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "team",
+        "start": 35,
+        "end": 50,
+        "confidence_entity": 0.9992601275444031,
+        "value": "Manchester City",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Who got injuried on 2023-10-01 of Manchester City.",
+    "entities": [
+      {
+        "start": 20,
+        "end": 30,
+        "value": "2023-10-01",
+        "entity": "date"
+      },
+      {
+        "start": 34,
+        "end": 49,
+        "value": "Manchester City",
+        "entity": "team"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "team",
+        "start": 34,
+        "end": 49,
+        "confidence_entity": 0.9996391534805298,
+        "value": "Manchester City",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Tell me the injuries list of Manchester City on 2023-10-01.",
+    "entities": [
+      {
+        "start": 29,
+        "end": 44,
+        "value": "Manchester City",
+        "entity": "team"
+      },
+      {
+        "start": 48,
+        "end": 58,
+        "value": "2023-10-01",
+        "entity": "date"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "team",
+        "start": 29,
+        "end": 44,
+        "confidence_entity": 0.999248206615448,
+        "value": "Manchester City",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Give me a list of injuries of Manchester City on 2023-10-01.",
+    "entities": [
+      {
+        "start": 30,
+        "end": 45,
+        "value": "Manchester City",
+        "entity": "team"
+      },
+      {
+        "start": 49,
+        "end": 59,
+        "value": "2023-10-01",
+        "entity": "date"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "team",
+        "start": 30,
+        "end": 45,
+        "confidence_entity": 0.9992501139640808,
+        "value": "Manchester City",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Who didn't take part the match on 2023-10-01 for Manchester City.",
+    "entities": [
+      {
+        "start": 34,
+        "end": 44,
+        "value": "2023-10-01",
+        "entity": "date"
+      },
+      {
+        "start": 49,
+        "end": 64,
+        "value": "Manchester City",
+        "entity": "team"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "team",
+        "start": 49,
+        "end": 64,
+        "confidence_entity": 0.9996515512466431,
+        "value": "Manchester City",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  }
+]
